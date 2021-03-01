@@ -1,8 +1,10 @@
 # QuickStart OpenLdap in docker
 
-> In order to get started with interacting with an LDAP-server
-> As a Software Engineer
-> I want to have a easy quick-startable LDAP-server.
+```
+In order to get started with interacting with an LDAP-server
+As a Software Engineer
+I want to have a easy quick-startable LDAP-server.
+```
 
 1. Check out this repo
 2. Make the needed local directories
